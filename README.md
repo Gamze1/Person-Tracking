@@ -1,4 +1,4 @@
-# Person Tracking-YOLOv3-Deep Sort-yTorch
+# Person Tracking-YOLOv3-Deep Sort-PyTorch
 
 ## Introduction
 
