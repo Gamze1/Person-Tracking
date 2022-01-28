@@ -6,12 +6,17 @@ This repository consist of PyTorch,YOLOv3 and Deepsort.
 Person tracking is carried out with the Deepsort algorithm which is basicly the same with sort but added a CNN model to extract features in image of human part bounded by a detector.
 
 ## Requirements
-
-- python
+```bash
+pip install -U -r requirements.txt
+```
+- numpy
 - torch >= 1.3
 - torch-vision
 - opencv-python
 - pillow
+- matplotlib
+- tqdm
+- pycocotools
 
 
 ## Tracking
